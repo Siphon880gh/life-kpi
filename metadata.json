@@ -1,0 +1,6 @@
+{
+  "name": "Life KPI",
+  "description": "Personal life management dashboard for organizing life areas, goals, KPI groups, and flexible tracking schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
